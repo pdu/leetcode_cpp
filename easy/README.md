@@ -6,3 +6,4 @@ Problem summary with the category tags.
 | ----- | ---- |
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | hash table |
 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | general |
+| [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | general |

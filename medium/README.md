@@ -9,3 +9,4 @@ Problem summary with the category tags.
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | greedy |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | dynamic programming |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | dfs |
+| [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | sorting |

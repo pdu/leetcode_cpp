@@ -12,3 +12,4 @@ Problem summary with the category tags.
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| dynamic programming |
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | general |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | general |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | linked list |

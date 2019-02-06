@@ -10,3 +10,4 @@ Problem summary with the category tags.
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | dynamic programming |
 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | dfs |
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | sorting |
+| [15. 3Sum](https://leetcode.com/problems/3sum/) | hash map, sorting |

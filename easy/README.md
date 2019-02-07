@@ -13,3 +13,4 @@ Problem summary with the category tags.
 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | general |
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | general |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | linked list |
+| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | linked list |

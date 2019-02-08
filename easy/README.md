@@ -15,3 +15,4 @@ Problem summary with the category tags.
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | linked list |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | linked list |
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | linked list, hash table |
+| [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | greedy |

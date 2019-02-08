@@ -9,3 +9,4 @@ Problem summary with the category tags.
 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | linked list, priority queue |
 | [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | general |
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | general |
+| [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | dynamic programming |

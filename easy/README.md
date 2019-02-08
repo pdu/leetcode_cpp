@@ -14,3 +14,4 @@ Problem summary with the category tags.
 | [344. Reverse String](https://leetcode.com/problems/reverse-string/) | general |
 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | linked list |
 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | linked list |
+| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | linked list, hash table |

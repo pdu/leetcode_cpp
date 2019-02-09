@@ -17,3 +17,4 @@ Problem summary with the category tags.
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | general |
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | binary search |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | dfs |
+| [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | permutation |

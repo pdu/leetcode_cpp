@@ -15,3 +15,4 @@ Problem summary with the category tags.
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | general |
 | [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | general |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | general |
+| [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | binary search |

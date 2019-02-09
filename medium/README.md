@@ -13,3 +13,4 @@ Problem summary with the category tags.
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | hash map, sorting |
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | hash map, linked list |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | general |
+| [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | general |

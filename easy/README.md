@@ -17,3 +17,4 @@ Problem summary with the category tags.
 | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | linked list, hash table |
 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | greedy |
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | merge sort |
+| [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | general |

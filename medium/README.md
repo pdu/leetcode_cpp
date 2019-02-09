@@ -12,3 +12,4 @@ Problem summary with the category tags.
 | [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) | sorting |
 | [15. 3Sum](https://leetcode.com/problems/3sum/) | hash map, sorting |
 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | hash map, linked list |
+| [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | general |

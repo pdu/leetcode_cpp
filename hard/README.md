@@ -11,3 +11,4 @@ Problem summary with the category tags.
 | [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | general |
 | [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | dynamic programming |
 | [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | hash table, general |
+| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | hash table, greedy |

@@ -19,3 +19,4 @@ Problem summary with the category tags.
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | dfs |
 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | permutation |
 | [139. Word Break](https://leetcode.com/problems/word-break/) | trie, dynamic programming |
+| [681. Next Closest Time](http://206.81.6.248:12306/leetcode/next-closest-time/description) | dfs |

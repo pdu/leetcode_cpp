@@ -18,3 +18,4 @@ Problem summary with the category tags.
 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | binary search |
 | [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | dfs |
 | [31. Next Permutation](https://leetcode.com/problems/next-permutation/) | permutation |
+| [139. Word Break](https://leetcode.com/problems/word-break/) | trie, dynamic programming |

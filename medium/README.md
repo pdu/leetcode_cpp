@@ -27,3 +27,4 @@ Problem summary with the category tags.
 | [253. Meeting Rooms II](http://206.81.6.248:12306/leetcode/meeting-rooms-ii/description) | sorting, priority queue |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | dfs |
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | general |
+| [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | recursive |

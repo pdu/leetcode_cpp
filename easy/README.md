@@ -19,3 +19,4 @@ Problem summary with the category tags.
 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | merge sort |
 | [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | general |
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | general |
+| [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | general |

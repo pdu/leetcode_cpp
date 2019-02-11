@@ -14,3 +14,4 @@ Problem summary with the category tags.
 | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | hash table, greedy |
 | [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | geography, hash table |
 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | binary tree |
+| [65. Valid Number](https://leetcode.com/problems/valid-number/) | general |

@@ -26,3 +26,4 @@ Problem summary with the category tags.
 | [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | general |
 | [253. Meeting Rooms II](http://206.81.6.248:12306/leetcode/meeting-rooms-ii/description) | sorting, priority queue |
 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | dfs |
+| [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | general |

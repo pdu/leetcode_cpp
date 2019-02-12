@@ -30,3 +30,4 @@ Problem summary with the category tags.
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | recursive |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | linked list |
 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | dynamic programming |
+| [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | hash table |

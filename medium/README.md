@@ -29,3 +29,4 @@ Problem summary with the category tags.
 | [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | general |
 | [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | recursive |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | linked list |
+| [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | dynamic programming |

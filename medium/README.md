@@ -32,3 +32,4 @@ Problem summary with the category tags.
 | [91. Decode Ways](https://leetcode.com/problems/decode-ways/) | dynamic programming |
 | [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | hash table |
 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | general |
+| [46. Permutations](https://leetcode.com/problems/permutations/) | dfs |

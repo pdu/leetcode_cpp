@@ -21,3 +21,4 @@ Problem summary with the category tags.
 | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | general |
 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | general |
 | [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | greedy |
+| [66. Plus One](https://leetcode.com/problems/plus-one/) | general |

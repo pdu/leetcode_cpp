@@ -15,3 +15,4 @@ Problem summary with the category tags.
 | [149. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | geography, hash table |
 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | binary tree |
 | [65. Valid Number](https://leetcode.com/problems/valid-number/) | general |
+| [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | linked list |

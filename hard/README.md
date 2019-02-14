@@ -16,3 +16,4 @@ Problem summary with the category tags.
 | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | binary tree |
 | [65. Valid Number](https://leetcode.com/problems/valid-number/) | general |
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | linked list |
+| [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | dynamic programming |

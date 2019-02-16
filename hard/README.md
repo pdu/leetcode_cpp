@@ -17,3 +17,4 @@ Problem summary with the category tags.
 | [65. Valid Number](https://leetcode.com/problems/valid-number/) | general |
 | [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | linked list |
 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | dynamic programming |
+| [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | stack |

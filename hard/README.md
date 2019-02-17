@@ -21,3 +21,4 @@ Problem summary with the category tags.
 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | binary tree, dynamic programming |
 | [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | dfs |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | dynamic programming |
+| [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | disjoint set |

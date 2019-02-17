@@ -35,3 +35,4 @@ Problem summary with the category tags.
 | [46. Permutations](https://leetcode.com/problems/permutations/) | dfs |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | dfs |
 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | binary search tree |
+| [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | linked list |

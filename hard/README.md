@@ -19,3 +19,4 @@ Problem summary with the category tags.
 | [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | dynamic programming |
 | [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | stack |
 | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | binary tree, dynamic programming |
+| [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | dfs |

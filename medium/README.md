@@ -34,3 +34,4 @@ Problem summary with the category tags.
 | [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | general |
 | [46. Permutations](https://leetcode.com/problems/permutations/) | dfs |
 | [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | dfs |
+| [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | binary search tree |

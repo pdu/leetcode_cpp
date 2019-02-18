@@ -22,3 +22,4 @@ Problem summary with the category tags.
 | [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | dfs |
 | [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | dynamic programming |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | disjoint set |
+| [269. Alien Dictionary](http://206.81.6.248:12306/leetcode/alien-dictionary/description) | toplogical sort |

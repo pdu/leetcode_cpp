@@ -41,3 +41,4 @@ Problem summary with the category tags.
 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | hash table |
 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | bfs |
 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | bfs, stack |
+| [79. Word Search](https://leetcode.com/problems/word-search/) | dfs |

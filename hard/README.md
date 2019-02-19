@@ -24,3 +24,4 @@ Problem summary with the category tags.
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | disjoint set |
 | [269. Alien Dictionary](http://206.81.6.248:12306/leetcode/alien-dictionary/description) | toplogical sort |
 | [403. Frog Jump](https://leetcode.com/problems/frog-jump/) | dynammic programming |
+| [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | trie, hash table |

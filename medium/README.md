@@ -42,3 +42,4 @@ Problem summary with the category tags.
 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | bfs |
 | [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | bfs, stack |
 | [79. Word Search](https://leetcode.com/problems/word-search/) | dfs |
+| [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | dynamic programming, binary search |

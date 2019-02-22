@@ -24,3 +24,4 @@ Problem summary with the category tags.
 | [66. Plus One](https://leetcode.com/problems/plus-one/) | general |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | general |
 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | general |
+| [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | linked list |

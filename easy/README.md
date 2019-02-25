@@ -25,3 +25,4 @@ Problem summary with the category tags.
 | [169. Majority Element](https://leetcode.com/problems/majority-element/) | general |
 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | general |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | linked list |
+| [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | general |

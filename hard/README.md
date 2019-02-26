@@ -27,3 +27,4 @@ Problem summary with the category tags.
 | [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/) | trie, hash table |
 | [140. Word Break II](https://leetcode.com/problems/word-break-ii/) | trie, dynamic programming |
 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | dynamic programming |
+| [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | priority queue |

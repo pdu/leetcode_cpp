@@ -29,3 +29,4 @@ Problem summary with the category tags.
 | [45. Jump Game II](https://leetcode.com/problems/jump-game-ii/) | dynamic programming |
 | [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | priority queue |
 | [642. Design Search Autocomplete System](http://206.81.6.248:12306/leetcode/design-search-autocomplete-system/description) | trie |
+| [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | deque |

@@ -49,3 +49,4 @@ Problem summary with the category tags.
 | [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | hash table |
 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | binary search |
 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | dfs |
+| [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | dfs |

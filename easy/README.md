@@ -26,3 +26,4 @@ Problem summary with the category tags.
 | [38. Count and Say](https://leetcode.com/problems/count-and-say/) | general |
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | linked list |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | general |
+| [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | general |

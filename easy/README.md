@@ -27,3 +27,4 @@ Problem summary with the category tags.
 | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | linked list |
 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | general |
 | [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | general |
+| [198. House Robber](https://leetcode.com/problems/house-robber/) | dynamic programming |

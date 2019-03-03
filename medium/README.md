@@ -52,3 +52,4 @@ Problem summary with the category tags.
 | [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | dfs |
 | [722. Remove Comments](https://leetcode.com/problems/remove-comments/) | string |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | general |
+| [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | general |

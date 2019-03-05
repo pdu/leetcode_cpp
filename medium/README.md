@@ -53,3 +53,4 @@ Problem summary with the category tags.
 | [722. Remove Comments](https://leetcode.com/problems/remove-comments/) | string |
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | general |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | general |
+| [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | binary search tree, stack |

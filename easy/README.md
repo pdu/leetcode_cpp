@@ -29,3 +29,4 @@ Problem summary with the category tags.
 | [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | general |
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | dynamic programming |
 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | hash table |
+| [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | binary tree, dynamic programming |

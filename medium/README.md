@@ -54,3 +54,4 @@ Problem summary with the category tags.
 | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | general |
 | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | general |
 | [173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | binary search tree, stack |
+| [322. Coin Change](https://leetcode.com/problems/coin-change/) | dynamic programming |

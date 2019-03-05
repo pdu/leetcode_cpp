@@ -30,3 +30,4 @@ Problem summary with the category tags.
 | [198. House Robber](https://leetcode.com/problems/house-robber/) | dynamic programming |
 | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | hash table |
 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | binary tree, dynamic programming |
+| [67. Add Binary](https://leetcode.com/problems/add-binary/) | general |

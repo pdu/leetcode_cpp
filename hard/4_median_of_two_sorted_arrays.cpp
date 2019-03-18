@@ -19,7 +19,7 @@
 // 1. binary search the target in the range of min(num1, num2) to max(num1, num2)
 // 2. then binary search in num1 and num2 to checkout how many numbers are smaller the target
 // 3. so as to find the kth number, k = (m+n+1)/2 or (m+n+1)/2+1
-// time complexity: O(log(INT_MAX) * log(m * n))
+// time complexity: O(log(INT_MAX) * log(m + n))
 // space complexity: O(1)
 //
 // the third solution:

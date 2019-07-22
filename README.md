@@ -1,4 +1,4 @@
-# leetcode_facebook_cpp
+# leetcode_cpp
 The cpp version solution of all the leetcode problems with tag Facebook
 
 All the solutions includes 4 core steps during the interview:
